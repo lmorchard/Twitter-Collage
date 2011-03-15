@@ -3,6 +3,12 @@
 .settings/
 .buildpath
 .project
+tmp
+logs
+.vagrant
+*.swp
+*.swo
+*gz
 
 # configuration
 config/config.yaml
@@ -17,4 +23,3 @@ public/store/*
 
 # language
 locale/
-
